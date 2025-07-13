@@ -1,4 +1,4 @@
-# 🛠️ Home Lab Projects – Mr El
+# 🛠️ Home Lab Projects – Mr Elsparky
 
 This repo contains hands-on projects and cybersecurity experiments I do at home using free tools, virtual machines, and my own test environment.
 
